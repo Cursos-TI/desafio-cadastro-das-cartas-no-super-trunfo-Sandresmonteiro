@@ -123,7 +123,9 @@ printf("Piber Capita 1 > Piber Capital 2: %d\n", piberCapital1 > piberCapital2);
 printf("Super poder 1 > Super poder 2: %d \n", superPoder1 > superPoder2);
   
 printf("\n \n \n");
+
  // resultados das comparaçôes! Qual Carta vence Quem 1 ou 2?
+ 
  printf(" === Qual Carta vence ====\n");
  printf("População: Carta 1 venceu? %d \n", populacao1 > populacao2);
  printf(" Área: Carta 1 venceu??: %d \n", areakm1 > areakm2);
